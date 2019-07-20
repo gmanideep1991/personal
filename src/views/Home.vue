@@ -1,19 +1,20 @@
 <template>
-  <div class="home">
-    <img
-      alt="Vue logo"
-      src="../assets/logo.png"
-    >
-    <HelloWorld msg="Welcome to my personal website. This is process of moving to Vue.js + TypeScript app." />
-  </div>
+  <b-row class="home">
+    <Sidebar />
+    <HelloWorld
+      msg="Welcome to my personal website. This is process of moving to Vue.js + TypeScript app."
+    />
+  </b-row>
 </template>
 
 <script lang="ts">
 import { Component, Vue } from "vue-property-decorator";
-import HelloWorld from "@/components/HelloWorld.vue"; // @ is an alias to /src
+import HelloWorld from "@/components/HelloWorld.vue";
+import Sidebar from "@/components/Sidebar.vue";
 
 @Component({
   components: {
+    Sidebar,
     HelloWorld
   }
 })
