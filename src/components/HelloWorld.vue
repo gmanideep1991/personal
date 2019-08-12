@@ -8,30 +8,36 @@
       I'm
       <b>Manideep</b>, a
       <span class="changeText">Software Engineer</span>
-      <span class="emoji technologist"></span> who is trying to learn and solve everyday problems.
+      <span class="emoji technologist"></span> who is trying to learn and solve
+      everyday problems.
     </h2>
     <section class="row background section">
-      <div class="col-sm-2 text-uppercase text-right title font-weight-bold">Background</div>
+      <div class="col-sm-2 text-uppercase text-right title font-weight-bold">
+        Background
+      </div>
       <div class="col-sm-10 content">
         <p>
-          I'm currently working at cerner corporation in kansas city. I work in a platform team that provides the ability for organizations
-          and individual users to create personalized/dashboard applications. I have developed different
-          web applications from wireframes to full responsive web pages. I've also had the privilege of
-          working with a startup called Squareoffs.
+          I'm currently working at cerner corporation in kansas city. I work in
+          a platform team that provides the ability for organizations and
+          individual users to create personalized/dashboard applications. I have
+          developed different web applications from wireframes to full
+          responsive web pages. I've also had the privilege of working with a
+          startup called Squareoffs.
         </p>
         <p>
-          <b>When i'm not working</b> i like to travel , play games preferably outdoor. Additionally, i love
-          playing
-          <a
-            href="https://www.catan.com/"
-            title="catan"
-            target="blank"
-          >catan</a> if you need any extra players hit me up.
+          <b>When i'm not working</b> i like to travel , play games preferably
+          outdoor. Additionally, i love playing
+          <a href="https://www.catan.com/" title="catan" target="blank"
+            >catan</a
+          >
+          if you need any extra players hit me up.
         </p>
       </div>
     </section>
     <section class="row skills section">
-      <div class="col-sm-2 text-uppercase text-right title font-weight-bold">Skills</div>
+      <div class="col-sm-2 text-uppercase text-right title font-weight-bold">
+        Skills
+      </div>
       <div class="col-sm-10 content">
         <div class="row">
           <div class="col-sm-4 text-left">
@@ -46,7 +52,9 @@
             </ul>
           </div>
           <div class="col-sm-4 text-left">
-            <div class="title font-weight-bold text-uppercase">frameworks/libraries</div>
+            <div class="title font-weight-bold text-uppercase">
+              frameworks/libraries
+            </div>
             <ul>
               <li>React.js (Beginner)</li>
               <li>Jquery</li>
@@ -68,7 +76,9 @@
       </div>
     </section>
     <section class="row experience section">
-      <div class="col-sm-2 text-uppercase text-right title font-weight-bold">Experience</div>
+      <div class="col-sm-2 text-uppercase text-right title font-weight-bold">
+        Experience
+      </div>
       <div class="col-sm-10 content">
         <section class="jobs">
           <div class="job">
@@ -77,32 +87,51 @@
                 href="https://www.cerner.com/"
                 title="cerner corporation"
                 target="blank"
-              >Cerner Corporation</a>
+                >Cerner Corporation</a
+              >
             </div>
             <div class="content row">
-              <div class="col-sm-6 text-left">Associate Senior Software Engineer</div>
+              <div class="col-sm-6 text-left">
+                Associate Senior Software Engineer
+              </div>
               <div class="col-sm-6 text-right">September 2017 - Present</div>
             </div>
             <div class="content row">
               <div class="col-sm-6 text-left">Software Engineer</div>
-              <div class="col-sm-6 text-right">October 2015 - September 2017</div>
+              <div class="col-sm-6 text-right">
+                October 2015 - September 2017
+              </div>
             </div>
           </div>
           <div class="job">
             <div class="title font-weight-bold">
-              <a href="https://www.thoughtlab.com/" title="thoughtlab" target="blank">Thoughtlab</a>
+              <a
+                href="https://www.thoughtlab.com/"
+                title="thoughtlab"
+                target="blank"
+                >Thoughtlab</a
+              >
             </div>
             <div class="content row">
               <div class="col-sm-6 text-left">Web Developer</div>
-              <div class="col-sm-6 text-right">September 2014 - October 2015</div>
+              <div class="col-sm-6 text-right">
+                September 2014 - October 2015
+              </div>
             </div>
           </div>
           <div class="job">
             <div class="title font-weight-bold">
-              <a href="https://www.squareoffs.com/" title="squareoffs" target="blank">Squareoffs</a>
+              <a
+                href="https://www.squareoffs.com/"
+                title="squareoffs"
+                target="blank"
+                >Squareoffs</a
+              >
             </div>
             <div class="content row">
-              <div class="col-sm-6 text-left">Front-End Developer (Volunteer)</div>
+              <div class="col-sm-6 text-left">
+                Front-End Developer (Volunteer)
+              </div>
               <div class="col-sm-6 text-right">June - August 2014</div>
             </div>
           </div>
@@ -110,12 +139,16 @@
       </div>
     </section>
     <section class="row online-degree section">
-      <div class="col-sm-2 text-uppercase text-right title font-weight-bold">Online Degree</div>
+      <div class="col-sm-2 text-uppercase text-right title font-weight-bold">
+        Online Degree
+      </div>
       <div class="col-sm-10 content">
         <section class="jobs">
           <div class="job">
             <div class="title font-weight-bold">
-              <a href="https://www.udacity.com/" title="Udacity" target="blank">Udacity</a>
+              <a href="https://www.udacity.com/" title="Udacity" target="blank"
+                >Udacity</a
+              >
             </div>
             <div class="content row">
               <div class="col-sm-6 view-certificate text-left">

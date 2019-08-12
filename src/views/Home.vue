@@ -10,7 +10,7 @@ import HelloWorld from "@/components/HelloWorld.vue";
 import Sidebar from "@/components/Sidebar.vue";
 
 export default {
-  name: "home",
+  name: "Home",
   components: {
     Sidebar,
     HelloWorld

@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/gmanideep1991/personal.svg?branch=master)](https://travis-ci.org/gmanideep1991/personal)
+
 # This website will be moved to vue app.
 
 # gmanideep1991.github.io

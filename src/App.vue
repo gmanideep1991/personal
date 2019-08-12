@@ -1,5 +1,5 @@
 <template>
-  <b-container fluid id="app">
+  <b-container id="app" fluid>
     <router-view />
   </b-container>
 </template>

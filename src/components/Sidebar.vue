@@ -1,4 +1,3 @@
-
 <template>
   <b-col sm="3" class="sidebar">
     <div>
@@ -20,7 +19,10 @@
             </li>
 
             <li>
-              <a href="https://www.linkedin.com/in/manideep-gattamaneni/" target="blank">
+              <a
+                href="https://www.linkedin.com/in/manideep-gattamaneni/"
+                target="blank"
+              >
                 <font-awesome-icon :icon="['fab', 'linkedin']" />
               </a>
             </li>
@@ -32,7 +34,11 @@
           </ul>
         </div>
         <div class="download-resume">
-          <a class="btn" href="../assets/files/manideep-gattamaneni-resume.pdf" target="blank">
+          <a
+            class="btn"
+            href="../assets/files/manideep-gattamaneni-resume.pdf"
+            target="blank"
+          >
             <i class="fa fa-download" aria-hidden="true"></i>
             <span>Resume</span>
           </a>
@@ -51,7 +57,7 @@ export default {
   name: "Sidebar"
 };
 </script>
-<style lang="less" >
+<style lang="less">
 @sidebar-white: #fdf3e7;
 @link-highlight: #ffa930;
 @theme-blue: #2a72b7;
@@ -131,5 +137,3 @@ export default {
   padding-bottom: 2rem;
 }
 </style>
-
-
