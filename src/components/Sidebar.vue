@@ -46,9 +46,10 @@
   </b-col>
 </template>
 
-<script lang="ts">
-import Vue from "vue";
-export default class Sidebar extends Vue {}
+<script>
+export default {
+  name: "Sidebar"
+};
 </script>
 <style lang="less" >
 @sidebar-white: #fdf3e7;
