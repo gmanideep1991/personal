@@ -1,19 +1,14 @@
 <template>
-  <b-row class="home">
-    <Sidebar />
-    <HelloWorld />
-  </b-row>
+  <HomeComponent />
 </template>
 
 <script>
-import HelloWorld from "@/components/HelloWorld.vue";
-import Sidebar from "@/components/Sidebar.vue";
+import HomeComponent from "@/components/Home/HomeComponent.vue";
 
 export default {
   name: "Home",
   components: {
-    Sidebar,
-    HelloWorld
+    HomeComponent
   }
 };
 </script>
