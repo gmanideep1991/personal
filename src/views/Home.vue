@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import HomeComponent from "@/components/Home/HomeComponent.vue";
+import HomeComponent from "@/components/HomeComponent.vue";
 
 export default {
   name: "Home",

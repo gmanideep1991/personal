@@ -1,8 +1,6 @@
 [![Build Status](https://travis-ci.org/gmanideep1991/personal.svg?branch=master)](https://travis-ci.org/gmanideep1991/personal)
 
-# This website will be moved to vue app.
-
-# gmanideep1991.github.io
+# gmanideep1991.github.io/personal
 
 ## Project setup
 
@@ -34,6 +32,6 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
+### Customize
 
-See [Configuration Reference](https://cli.vuejs.org/config/).
+update the personal.json file in static folder
