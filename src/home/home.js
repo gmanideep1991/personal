@@ -1,8 +1,8 @@
 import React from "react";
-import Paper from "@material-ui/core/Paper";
+//import Paper from "@material-ui/core/Paper";
 import { withStyles } from "@material-ui/core/styles";
 import Grid from "@material-ui/core/Grid";
-import Button from "@material-ui/core/Button";
+//import Button from "@material-ui/core/Button";
 import Timeline from "./timeline.js";
 
 const useStyles = theme => ({
