@@ -44,7 +44,7 @@ class Home extends React.Component {
             <h1>Hello</h1>
             <h3>This is Manideep Gattamaneni</h3>
             <div>
-              I am currently working at cerner corporation as software engineer
+              I am currently working at Teladoc as software engineer
               trying new things and solving problems.
             </div>
             {/* <Button className={classes.downloadButton} variant="contained">

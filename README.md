@@ -1,1 +1,1 @@
-# Personal space (http://gmanideep1991.github.io/personal)
+# Personal space (http://manideepgattamaneni.github.io/personal)

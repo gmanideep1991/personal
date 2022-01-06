@@ -37,7 +37,7 @@ export default function SimpleBottomNavigation() {
       <IconButton
         aria-label="twitter"
         className={classes.socialIcon}
-        href="https://github.com/gmanideep1991"
+        href="https://github.com/manideepgattamaneni"
       >
         <GitHubIcon />
       </IconButton>
